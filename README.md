@@ -70,4 +70,4 @@
   </tbody>
 </table>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GTech1256.GTech1256) [![HitCount](http://hits.dwyl.com/GTech1256/GTech1256.svg)](http://hits.dwyl.com/GTech1256/GTech1256)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GTech1256.GTech1256)
