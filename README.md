@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">𝗛𝗶 𝗧𝗵𝗲𝗿𝗲!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 [![Twitter Badge](https://img.shields.io/badge/-@GTech156-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GTech156)](https://twitter.com/GTech156)
-[![Gmail Badge](https://img.shields.io/badge/-pomah1256@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pomah1256@gmail.com)](mailto:pomah1256@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pomah156@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pomah156@gmail.com)](mailto:pomah156@gmail.com)
 <a href="https://www.instagram.com/facetious.sight" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/gtech1256" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
